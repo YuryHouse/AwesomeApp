@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="555d48e4-662e-47cf-849b-06a74ad8b61c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/awesome-app/MyCarousel.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/awesome-app/package-lock.json" afterDir="false" />
+    <list default="true" id="555d48e4-662e-47cf-849b-06a74ad8b61c" name="Changes" comment="Logo and SearchBar were created">
       <change afterPath="$PROJECT_DIR$/../../Search bar/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Search bar/.idea/Search bar.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Search bar/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -25,10 +23,6 @@
       <change afterPath="$PROJECT_DIR$/../../slider/src/componetns/filtered-panel/FilteredPanel.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../slider/src/componetns/slider-proton/SliderProton.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../slider/src/componetns/table-tools/TableTools.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awesome-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-app/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awesome-app/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-app/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/awesome-app/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-app/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../playing-cards/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../playing-cards/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../playing-cards/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../playing-cards/src/App.css" beforeDir="false" />
@@ -40,8 +34,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="repository" />
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -86,8 +87,16 @@
       <workItem from="1661347585338" duration="13000" />
       <workItem from="1661347834981" duration="19000" />
       <workItem from="1661348317281" duration="686000" />
-      <workItem from="1661352046750" duration="2125000" />
+      <workItem from="1661352046750" duration="2554000" />
     </task>
+    <task id="LOCAL-00001" summary="Logo and SearchBar were created">
+      <created>1661354466292</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661354466292</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,5 +115,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Logo and SearchBar were created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Logo and SearchBar were created" />
   </component>
 </project>
