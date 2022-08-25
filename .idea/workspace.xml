@@ -23,6 +23,9 @@
       <change afterPath="$PROJECT_DIR$/../../slider/src/componetns/filtered-panel/FilteredPanel.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../slider/src/componetns/slider-proton/SliderProton.tsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../slider/src/componetns/table-tools/TableTools.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-app/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-app/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-app/MyCarousel.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../playing-cards/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../playing-cards/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../playing-cards/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../playing-cards/src/App.css" beforeDir="false" />
@@ -87,7 +90,12 @@
       <workItem from="1661347585338" duration="13000" />
       <workItem from="1661347834981" duration="19000" />
       <workItem from="1661348317281" duration="686000" />
-      <workItem from="1661352046750" duration="2554000" />
+      <workItem from="1661352046750" duration="13087000" />
+      <workItem from="1661366728332" duration="13000" />
+      <workItem from="1661421882217" duration="43000" />
+      <workItem from="1661423465476" duration="14000" />
+      <workItem from="1661437311142" duration="506000" />
+      <workItem from="1661437836494" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="Logo and SearchBar were created">
       <created>1661354466292</created>
@@ -96,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661354466292</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Logo and SearchBar were created">
+      <created>1661354870380</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1661354870380</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +123,21 @@
         <entry key="MAIN">
           <value>
             <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
